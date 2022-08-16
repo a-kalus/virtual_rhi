@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fc1210c172f59154b97fa18fa70c57dc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FreeSans
+  fontNames:
+  - FreeSans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3aa2f1e145e3fdb41b0b43b299c73f91, type: 3}
+  - {fileID: 12800000, guid: 81c943e5c93211745a23ef3e8d426bdf, type: 3}
+  - {fileID: 12800000, guid: 13a2104a8c4d4954689d7dbace21d295, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

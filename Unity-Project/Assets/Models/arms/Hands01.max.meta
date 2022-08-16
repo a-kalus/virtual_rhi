@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 3460e67aeed7db0449262e017bdfd4b2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 5L_Hand
+    100002: 5L_Hand_A
+    100004: 5R_Hand
+    100006: 5R_Hand_A
+    100008: //RootNode
+    100010: L_Forearm_01
+    100012: L_Forearm_02
+    100014: L_Forearm_03
+    100016: L_Forearm_04
+    100018: L_Forearm_05
+    100020: L_Forearm_meta
+    100022: L_index_01
+    100024: L_index_02
+    100026: L_index_meta
+    100028: L_middle_01
+    100030: L_middle_02
+    100032: L_middle_meta
+    100034: L_Palm
+    100036: L_pinky_01
+    100038: L_pinky_02
+    100040: L_pinky_meta
+    100042: L_ring_01
+    100044: L_ring_02
+    100046: L_ring_meta
+    100048: L_thumb_01
+    100050: L_thumb_02
+    100052: L_thumb_meta
+    100054: R_Forearm_01
+    100056: R_Forearm_02
+    100058: R_Forearm_03
+    100060: R_Forearm_04
+    100062: R_Forearm_05
+    100064: R_Forearm_meta
+    100066: R_index_01
+    100068: R_index_02
+    100070: R_index_meta
+    100072: R_middle_01
+    100074: R_middle_02
+    100076: R_middle_meta
+    100078: R_Palm
+    100080: R_pinky_01
+    100082: R_pinky_02
+    100084: R_pinky_meta
+    100086: R_ring_01
+    100088: R_ring_02
+    100090: R_ring_meta
+    100092: R_thumb_01
+    100094: R_thumb_02
+    100096: R_thumb_meta
+    400000: 5L_Hand
+    400002: 5L_Hand_A
+    400004: 5R_Hand
+    400006: 5R_Hand_A
+    400008: //RootNode
+    400010: L_Forearm_01
+    400012: L_Forearm_02
+    400014: L_Forearm_03
+    400016: L_Forearm_04
+    400018: L_Forearm_05
+    400020: L_Forearm_meta
+    400022: L_index_01
+    400024: L_index_02
+    400026: L_index_meta
+    400028: L_middle_01
+    400030: L_middle_02
+    400032: L_middle_meta
+    400034: L_Palm
+    400036: L_pinky_01
+    400038: L_pinky_02
+    400040: L_pinky_meta
+    400042: L_ring_01
+    400044: L_ring_02
+    400046: L_ring_meta
+    400048: L_thumb_01
+    400050: L_thumb_02
+    400052: L_thumb_meta
+    400054: R_Forearm_01
+    400056: R_Forearm_02
+    400058: R_Forearm_03
+    400060: R_Forearm_04
+    400062: R_Forearm_05
+    400064: R_Forearm_meta
+    400066: R_index_01
+    400068: R_index_02
+    400070: R_index_meta
+    400072: R_middle_01
+    400074: R_middle_02
+    400076: R_middle_meta
+    400078: R_Palm
+    400080: R_pinky_01
+    400082: R_pinky_02
+    400084: R_pinky_meta
+    400086: R_ring_01
+    400088: R_ring_02
+    400090: R_ring_meta
+    400092: R_thumb_01
+    400094: R_thumb_02
+    400096: R_thumb_meta
+    2100000: 'Material #66'
+    2100002: 'Material #26'
+    2300000: 5R_Hand
+    3300000: 5R_Hand
+    4300000: 5R_Hand
+    4300002: 5L_Hand
+    4300004: 5L_Hand_A
+    4300006: 5R_Hand_A
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: 5L_Hand
+    13700002: 5L_Hand_A
+    13700004: 5R_Hand_A
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 1135a91093c447c44aa4fc9655760405
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 5L_Hand
+    100002: 5R_Hand
+    100004: L_Forearm_01
+    100006: L_Forearm_02
+    100008: L_Forearm_03
+    100010: L_Forearm_04
+    100012: L_Forearm_05
+    100014: L_Forearm_meta
+    100016: L_index_01
+    100018: L_index_02
+    100020: L_index_meta
+    100022: L_middle_01
+    100024: L_middle_02
+    100026: L_middle_meta
+    100028: L_Palm
+    100030: L_pinky_01
+    100032: L_pinky_02
+    100034: L_pinky_meta
+    100036: L_ring_01
+    100038: L_ring_02
+    100040: L_ring_meta
+    100042: L_thumb_01
+    100044: L_thumb_02
+    100046: L_thumb_meta
+    100048: //RootNode
+    100050: R_Forearm_01
+    100052: R_Forearm_02
+    100054: R_Forearm_03
+    100056: R_Forearm_04
+    100058: R_Forearm_05
+    100060: R_Forearm_meta
+    100062: R_index_01
+    100064: R_index_02
+    100066: R_index_meta
+    100068: R_middle_01
+    100070: R_middle_02
+    100072: R_middle_meta
+    100074: R_Palm
+    100076: R_pinky_01
+    100078: R_pinky_02
+    100080: R_pinky_meta
+    100082: R_ring_01
+    100084: R_ring_02
+    100086: R_ring_meta
+    100088: R_thumb_01
+    100090: R_thumb_02
+    100092: R_thumb_meta
+    400000: 5L_Hand
+    400002: 5R_Hand
+    400004: L_Forearm_01
+    400006: L_Forearm_02
+    400008: L_Forearm_03
+    400010: L_Forearm_04
+    400012: L_Forearm_05
+    400014: L_Forearm_meta
+    400016: L_index_01
+    400018: L_index_02
+    400020: L_index_meta
+    400022: L_middle_01
+    400024: L_middle_02
+    400026: L_middle_meta
+    400028: L_Palm
+    400030: L_pinky_01
+    400032: L_pinky_02
+    400034: L_pinky_meta
+    400036: L_ring_01
+    400038: L_ring_02
+    400040: L_ring_meta
+    400042: L_thumb_01
+    400044: L_thumb_02
+    400046: L_thumb_meta
+    400048: //RootNode
+    400050: R_Forearm_01
+    400052: R_Forearm_02
+    400054: R_Forearm_03
+    400056: R_Forearm_04
+    400058: R_Forearm_05
+    400060: R_Forearm_meta
+    400062: R_index_01
+    400064: R_index_02
+    400066: R_index_meta
+    400068: R_middle_01
+    400070: R_middle_02
+    400072: R_middle_meta
+    400074: R_Palm
+    400076: R_pinky_01
+    400078: R_pinky_02
+    400080: R_pinky_meta
+    400082: R_ring_01
+    400084: R_ring_02
+    400086: R_ring_meta
+    400088: R_thumb_01
+    400090: R_thumb_02
+    400092: R_thumb_meta
+    2100000: 'Material #66'
+    4300000: 5R_Hand
+    4300002: 5L_Hand
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: 5L_Hand
+    13700002: 5R_Hand
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
